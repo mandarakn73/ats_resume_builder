@@ -1,4 +1,6 @@
-streamlit==1.30.0
+streamlit
 scikit-learn
 numpy
 pandas
+python-docx
+reportlab
